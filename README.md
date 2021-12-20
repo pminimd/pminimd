@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi 👋Hello , 😄 I am pminimd ✨. ![](https://visitor-badge.glitch.me/badge?page_id=pminimd.homepage) 
+
+[![Pminimd github stats](https://github-readme-stats.vercel.app/api?username=pminimd&theme=nightowl&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on Accelerating Neural Network Inference and Implement...
 - 🌱 I’m currently learning OpenCL...
 - 📫 How to reach me: pminimd@gmail.com
+
+
 <!--
 **pminimd/pminimd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
