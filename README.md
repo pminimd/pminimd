@@ -2,8 +2,7 @@
 
 [![Pminimd github stats](https://github-readme-stats.vercel.app/api?username=pminimd&theme=nightowl&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently working on Neural Radiance Field method...
-- 🔭 I’m currently working on Accelerating Neural Network Inference and Implementation...
+- 🌱 I’m currently working on computer vision...
 
 - 📫 How to reach me: pminimd@gmail.com
 
