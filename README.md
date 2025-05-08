@@ -1,4 +1,4 @@
-### Hi 👋Hello , 😄 I am pminimd ✨. ![](https://visitor-badge.glitch.me/badge?page_id=pminimd.homepage) 
+### Hi 👋Hello , 😄 I am pminimd ✨. 
 
 [![Pminimd github stats](https://github-readme-stats.vercel.app/api?username=pminimd&theme=nightowl&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
